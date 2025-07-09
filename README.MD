@@ -33,9 +33,5 @@ Este proyecto es una API para gestionar artistas, álbumes y canciones usando Fa
 - `schemas/schemas.py`: Esquemas de Pydantic.
 - `utils/database.py`: Configuración de la base de datos.
 
-## Notas
-- No subas datos sensibles ni contraseñas.
-- Puedes crear un archivo `.env` para variables de entorno.
-
 ## Licencia
 MIT
